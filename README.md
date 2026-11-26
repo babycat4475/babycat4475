@@ -1,7 +1,7 @@
 ## Hi, I'm ZYH 👋
 
 Python developer focused on **LLM applications & backend engineering**, based in Guangzhou.
-B.Sc. Computer Science, Macau University of Science and Technology (2026).
+B.Sc. Computer Science, Macau University of Science and Technology (expected 2028).
 
 I build things end-to-end: design → implementation → tests → honest evaluation → containerized delivery.
 
